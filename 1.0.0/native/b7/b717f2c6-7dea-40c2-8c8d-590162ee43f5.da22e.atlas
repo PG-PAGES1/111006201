@@ -1,0 +1,104 @@
+
+chongzhuanUI.png
+size: 1130,941
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bns_collect_bar
+  rotate: true
+  xy: 246, 295
+  size: 528, 52
+  orig: 528, 52
+  offset: 0, 0
+  index: -1
+bns_footer_btm
+  rotate: true
+  xy: 2, 183
+  size: 756, 242
+  orig: 756, 242
+  offset: 0, 0
+  index: -1
+bns_footer_left
+  rotate: false
+  xy: 621, 661
+  size: 137, 162
+  orig: 137, 162
+  offset: 0, 0
+  index: -1
+bns_life_bar
+  rotate: false
+  xy: 246, 825
+  size: 483, 114
+  orig: 483, 114
+  offset: 0, 0
+  index: -1
+bns_mtp_panel_btm
+  rotate: true
+  xy: 760, 247
+  size: 692, 366
+  orig: 692, 366
+  offset: 0, 0
+  index: -1
+bns_mtp_panel_left
+  rotate: false
+  xy: 621, 452
+  size: 116, 207
+  orig: 116, 207
+  offset: 0, 0
+  index: -1
+bns_mtp_panel_right
+  rotate: false
+  xy: 611, 198
+  size: 113, 207
+  orig: 113, 207
+  offset: 0, 0
+  index: -1
+mg_footer_stone/ui_footer_btm
+  rotate: false
+  xy: 2, 5
+  size: 756, 176
+  orig: 756, 176
+  offset: 0, 0
+  index: -1
+mg_footer_stone/ui_footer_left
+  rotate: false
+  xy: 300, 616
+  size: 319, 207
+  orig: 319, 207
+  offset: 0, 0
+  index: -1
+mg_footer_stone/ui_footer_mid
+  rotate: false
+  xy: 300, 198
+  size: 309, 207
+  orig: 309, 207
+  offset: 0, 0
+  index: -1
+mg_footer_stone/ui_footer_right
+  rotate: false
+  xy: 300, 407
+  size: 319, 207
+  orig: 319, 207
+  offset: 0, 0
+  index: -1
+mg_footer_stone/ui_info_left
+  rotate: false
+  xy: 872, 41
+  size: 243, 110
+  orig: 243, 111
+  offset: 0, 1
+  index: -1
+mg_footer_stone/ui_info_mid
+  rotate: false
+  xy: 872, 153
+  size: 256, 92
+  orig: 256, 93
+  offset: 0, 1
+  index: -1
+mg_footer_stone/ui_info_right
+  rotate: true
+  xy: 760, 2
+  size: 243, 110
+  orig: 243, 111
+  offset: 0, 1
+  index: -1

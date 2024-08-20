@@ -1,0 +1,195 @@
+
+tuan_win.png
+size: 1093,1093
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lizi/ps_particle_00
+  rotate: true
+  xy: 993, 121
+  size: 81, 67
+  orig: 231, 257
+  offset: 78, 99
+  index: -1
+lizi/ps_particle_01
+  rotate: true
+  xy: 880, 62
+  size: 115, 111
+  orig: 231, 257
+  offset: 61, 78
+  index: -1
+lizi/ps_particle_02
+  rotate: false
+  xy: 908, 204
+  size: 139, 145
+  orig: 231, 257
+  offset: 48, 60
+  index: -1
+lizi/ps_particle_03
+  rotate: true
+  xy: 707, 20
+  size: 157, 171
+  orig: 231, 257
+  offset: 39, 46
+  index: -1
+lizi/ps_particle_04
+  rotate: false
+  xy: 914, 490
+  size: 175, 191
+  orig: 231, 257
+  offset: 29, 35
+  index: -1
+lizi/ps_particle_05
+  rotate: true
+  xy: 500, 8
+  size: 185, 205
+  orig: 231, 257
+  offset: 23, 27
+  index: -1
+lizi/ps_particle_06
+  rotate: false
+  xy: 713, 179
+  size: 193, 217
+  orig: 231, 257
+  offset: 18, 20
+  index: -1
+lizi/ps_particle_07
+  rotate: false
+  xy: 713, 398
+  size: 199, 227
+  orig: 231, 257
+  offset: 15, 15
+  index: -1
+lizi/ps_particle_08
+  rotate: false
+  xy: 705, 627
+  size: 205, 235
+  orig: 231, 257
+  offset: 12, 11
+  index: -1
+lizi/ps_particle_09
+  rotate: true
+  xy: 249, 195
+  size: 209, 241
+  orig: 231, 257
+  offset: 10, 8
+  index: -1
+lizi/ps_particle_10
+  rotate: false
+  xy: 496, 615
+  size: 207, 247
+  orig: 231, 257
+  offset: 12, 5
+  index: -1
+lizi/ps_particle_11
+  rotate: true
+  xy: 743, 888
+  size: 203, 249
+  orig: 231, 257
+  offset: 17, 3
+  index: -1
+lizi/ps_particle_12
+  rotate: true
+  xy: 249, 16
+  size: 177, 249
+  orig: 231, 257
+  offset: 39, 1
+  index: -1
+lizi/ps_particle_13
+  rotate: true
+  xy: 2, 12
+  size: 163, 245
+  orig: 231, 257
+  offset: 48, 1
+  index: -1
+lizi/ps_particle_14
+  rotate: false
+  xy: 912, 683
+  size: 149, 203
+  orig: 231, 257
+  offset: 58, 1
+  index: -1
+lizi/ps_particle_15
+  rotate: false
+  xy: 994, 890
+  size: 73, 201
+  orig: 231, 257
+  offset: 79, 2
+  index: -1
+win_sym_lattice/ps_glow_00
+  rotate: false
+  xy: 914, 351
+  size: 177, 137
+  orig: 245, 227
+  offset: 30, 1
+  index: -1
+win_sym_lattice/ps_glow_01
+  rotate: false
+  xy: 492, 195
+  size: 207, 189
+  orig: 245, 227
+  offset: 1, 1
+  index: -1
+win_sym_lattice/ps_glow_02
+  rotate: false
+  xy: 496, 386
+  size: 215, 227
+  orig: 245, 227
+  offset: 1, 0
+  index: -1
+win_sym_lattice/ps_glow_03
+  rotate: false
+  xy: 2, 864
+  size: 245, 227
+  orig: 245, 227
+  offset: 0, 0
+  index: -1
+win_sym_lattice/ps_glow_04
+  rotate: false
+  xy: 2, 635
+  size: 245, 227
+  orig: 245, 227
+  offset: 0, 0
+  index: -1
+win_sym_lattice/ps_glow_05
+  rotate: false
+  xy: 249, 864
+  size: 245, 227
+  orig: 245, 227
+  offset: 0, 0
+  index: -1
+win_sym_lattice/ps_glow_06
+  rotate: false
+  xy: 2, 406
+  size: 245, 227
+  orig: 245, 227
+  offset: 0, 0
+  index: -1
+win_sym_lattice/ps_glow_07
+  rotate: false
+  xy: 249, 635
+  size: 245, 227
+  orig: 245, 227
+  offset: 0, 0
+  index: -1
+win_sym_lattice/ps_glow_08
+  rotate: false
+  xy: 496, 864
+  size: 245, 227
+  orig: 245, 227
+  offset: 0, 0
+  index: -1
+win_sym_lattice/ps_glow_09
+  rotate: false
+  xy: 2, 177
+  size: 245, 227
+  orig: 245, 227
+  offset: 0, 0
+  index: -1
+win_sym_lattice/ps_glow_10
+  rotate: false
+  xy: 249, 406
+  size: 245, 227
+  orig: 245, 227
+  offset: 0, 0
+  index: -1

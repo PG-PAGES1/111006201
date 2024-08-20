@@ -1,0 +1,264 @@
+
+czbg.jpg
+size: 1794,1556
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+feature_bg_light_part01/bg_effect_01_add_00
+  rotate: true
+  xy: 226, 1349
+  size: 205, 222
+  orig: 205, 222
+  offset: 0, 0
+  index: -1
+feature_bg_light_part01/bg_effect_01_add_01
+  rotate: true
+  xy: 450, 1349
+  size: 205, 222
+  orig: 205, 222
+  offset: 0, 0
+  index: -1
+feature_bg_light_part01/bg_effect_01_add_02
+  rotate: true
+  xy: 674, 1349
+  size: 205, 222
+  orig: 205, 222
+  offset: 0, 0
+  index: -1
+feature_bg_light_part01/bg_effect_01_add_03
+  rotate: true
+  xy: 898, 1349
+  size: 205, 222
+  orig: 205, 222
+  offset: 0, 0
+  index: -1
+feature_bg_light_part01/bg_effect_01_add_04
+  rotate: true
+  xy: 1122, 1349
+  size: 205, 222
+  orig: 205, 222
+  offset: 0, 0
+  index: -1
+feature_bg_light_part01/bg_effect_01_add_05
+  rotate: true
+  xy: 1346, 1349
+  size: 205, 222
+  orig: 205, 222
+  offset: 0, 0
+  index: -1
+feature_bg_light_part01/bg_effect_01_add_06
+  rotate: true
+  xy: 1570, 1349
+  size: 205, 222
+  orig: 205, 222
+  offset: 0, 0
+  index: -1
+feature_bg_light_part01/bg_effect_01_add_07
+  rotate: true
+  xy: 2, 1144
+  size: 205, 222
+  orig: 205, 222
+  offset: 0, 0
+  index: -1
+feature_bg_light_part01/bg_effect_01_add_08
+  rotate: true
+  xy: 226, 1142
+  size: 205, 222
+  orig: 205, 222
+  offset: 0, 0
+  index: -1
+feature_bg_light_part01/bg_effect_01_add_09
+  rotate: true
+  xy: 450, 1142
+  size: 205, 222
+  orig: 205, 222
+  offset: 0, 0
+  index: -1
+feature_bg_light_part01/bg_effect_01_add_10
+  rotate: true
+  xy: 674, 1142
+  size: 205, 222
+  orig: 205, 222
+  offset: 0, 0
+  index: -1
+feature_bg_light_part01/bg_effect_01_add_11
+  rotate: true
+  xy: 898, 1142
+  size: 205, 222
+  orig: 205, 222
+  offset: 0, 0
+  index: -1
+feature_bg_light_part01/bg_effect_01_add_12
+  rotate: true
+  xy: 1122, 1142
+  size: 205, 222
+  orig: 205, 222
+  offset: 0, 0
+  index: -1
+feature_bg_light_part01/bg_effect_01_add_13
+  rotate: true
+  xy: 1346, 1142
+  size: 205, 222
+  orig: 205, 222
+  offset: 0, 0
+  index: -1
+feature_bg_light_part01/bg_effect_01_add_14
+  rotate: true
+  xy: 1570, 1142
+  size: 205, 222
+  orig: 205, 222
+  offset: 0, 0
+  index: -1
+feature_bg_light_part01/bg_effect_01_add_15
+  rotate: true
+  xy: 2, 937
+  size: 205, 222
+  orig: 205, 222
+  offset: 0, 0
+  index: -1
+feature_bg_light_part01/bg_effect_01_add_16
+  rotate: true
+  xy: 226, 935
+  size: 205, 222
+  orig: 205, 222
+  offset: 0, 0
+  index: -1
+feature_bg_light_part01/bg_effect_01_add_17
+  rotate: true
+  xy: 2, 1351
+  size: 203, 222
+  orig: 205, 222
+  offset: 0, 0
+  index: -1
+feature_bg_light_part01/bg_effect_01_add_18
+  rotate: true
+  xy: 450, 935
+  size: 205, 222
+  orig: 205, 222
+  offset: 0, 0
+  index: -1
+feature_bg_light_part01/bg_effect_01_add_19
+  rotate: true
+  xy: 674, 935
+  size: 205, 222
+  orig: 205, 222
+  offset: 0, 0
+  index: -1
+feature_bg_light_part01/bg_effect_01_add_20
+  rotate: true
+  xy: 898, 935
+  size: 205, 222
+  orig: 205, 222
+  offset: 0, 0
+  index: -1
+warp_light
+  rotate: false
+  xy: 1122, 810
+  size: 410, 330
+  orig: 410, 330
+  offset: 0, 0
+  index: -1
+warp_light_bg/fs_warp_bg_00
+  rotate: true
+  xy: 2, 531
+  size: 402, 508
+  orig: 402, 508
+  offset: 0, 0
+  index: -1
+warp_light_bg/fs_warp_bg_01
+  rotate: true
+  xy: 512, 531
+  size: 402, 508
+  orig: 402, 508
+  offset: 0, 0
+  index: -1
+warp_light_bg/fs_warp_bg_02
+  rotate: true
+  xy: 1022, 406
+  size: 402, 508
+  orig: 402, 508
+  offset: 0, 0
+  index: -1
+warp_light_bg/fs_warp_bg_03
+  rotate: true
+  xy: 2, 127
+  size: 402, 508
+  orig: 402, 508
+  offset: 0, 0
+  index: -1
+warp_light_bg/fs_warp_bg_04
+  rotate: true
+  xy: 512, 127
+  size: 402, 508
+  orig: 402, 508
+  offset: 0, 0
+  index: -1
+warp_light_bg/fs_warp_bg_05
+  rotate: true
+  xy: 1022, 2
+  size: 402, 508
+  orig: 402, 508
+  offset: 0, 0
+  index: -1
+
+czbg2.jpg
+size: 1532,1215
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+feature_bg_line_light/bns_bg_line_a
+  rotate: true
+  xy: 2, 2
+  size: 403, 717
+  orig: 403, 717
+  offset: 0, 0
+  index: -1
+feature_bg_line_light/bns_bg_line_b
+  rotate: true
+  xy: 721, 2
+  size: 403, 717
+  orig: 403, 717
+  offset: 0, 0
+  index: -1
+warp_light_bg/fs_warp_bg_06
+  rotate: true
+  xy: 2, 811
+  size: 402, 508
+  orig: 402, 508
+  offset: 0, 0
+  index: -1
+warp_light_bg/fs_warp_bg_07
+  rotate: true
+  xy: 512, 811
+  size: 402, 508
+  orig: 402, 508
+  offset: 0, 0
+  index: -1
+warp_light_bg/fs_warp_bg_08
+  rotate: true
+  xy: 1022, 811
+  size: 402, 508
+  orig: 402, 508
+  offset: 0, 0
+  index: -1
+warp_light_bg/fs_warp_bg_09
+  rotate: true
+  xy: 2, 407
+  size: 402, 508
+  orig: 402, 508
+  offset: 0, 0
+  index: -1
+warp_light_bg/fs_warp_bg_10
+  rotate: true
+  xy: 512, 407
+  size: 402, 508
+  orig: 402, 508
+  offset: 0, 0
+  index: -1
+warp_light_bg/fs_warp_bg_11
+  rotate: true
+  xy: 1022, 407
+  size: 402, 508
+  orig: 402, 508
+  offset: 0, 0
+  index: -1
